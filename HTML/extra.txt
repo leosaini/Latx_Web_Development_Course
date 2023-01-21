@@ -1,0 +1,63 @@
+https://gitforwindows.org/
+https://visualstudio.microsoft.com/
+
+
+HTML - stands for Hypertext Markup Language
+1. HTML use to create the structure and layout of website.
+2. HTML use elements, sunch as heading, paragraph.
+3. HTML is the foundation of any web page.
+4. we use css and js also to create UI and UX better.
+
+Markup Language : any language use tag to create web page structure
+Hypertext : 
+It know as a link.
+its clickable elements in webpage that allow user to navigate other pages.
+
+
+Tags : tags are markup language. 
+       ex : <h1>Content</h1>
+
+Attributes : provide extra inforamtion about tag
+
+
+Basic Structure of HTML
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Document</title>
+    </head>
+    <body>       
+        <!-- main content of web page -->
+    </body>
+</html>
+
+
+--->>> Each Element in HTMl is a container
+
+Open and closing tag  // self closing tag ( void tag )
+
+
+Basic Tags
+1. heading tag ( h1 - h6 ) 
+ex :
+        <h1>Web Development Course</h1>
+        <h2>Web Development Course</h2>
+        <h3>Web Development Course</h3>
+        <h4>Web Development Course</h4>
+        <h5>Web Development Course</h5>
+        <h6>Web Development Course</h6>
+
+use to define heading and sub heading of webpage
+and they help search engin and user to underastand the main topic of the page.
+
+---> h1 tag use only once for a particular web page
+
+
+--> Paragraph Tag 
+    <p>content</p>
+    
+--> bold and italic
+    <b></b>
+    <i></i>
+
+
