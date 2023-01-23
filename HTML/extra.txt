@@ -60,4 +60,44 @@ and they help search engin and user to underastand the main topic of the page.
     <b></b>
     <i></i>
 
+/////////////////   Day 2 
+
+--> Subscript and SuperScript
+    
+    subscript - <sub>
+    superscript - <sup>
+
+-> Line Break
+   <br/>
+
+-> Horizontal Rule
+   <hr/>
+
+--> Abbr  - Abbreviation
+    <abbr title="HyperText Markupp Language" >HTML</abbr>
+
+
+-> List
+ 
+    1. unordered List  -- <ul>
+       Attributes : reversed, start="4", type=1(by default), A,a,i,I
+    2. ordered List -- <ol>
+
+    list item -- <li>
+
+
+-> Images 
+   <img src="" alt="" />
+        
+
+-> Block Element and Inline elements
+
+   Block : Block Elements contain full width of their parents.
+
+   inline : take only necessary width
+
+
+
+
+
 
