@@ -1,0 +1,96 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+/* common classes */
+.yellow{
+    color:rgb(255, 179, 32);
+}
+.mybutton{
+    color: black;
+    background-color: rgb(255, 179, 32);
+    text-decoration: none;
+    font-weight: 500;
+    padding:10px 30px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.mybutton:hover{
+    color: black;
+}
+
+
+/* navigation */
+.navigation 
+{
+    background-color: #131313;
+   
+    border-bottom: 2px solid rgb(255, 179, 32);
+}
+.navigation .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.navigation ul{
+    display: flex;
+    color: white;
+    gap:60px;
+    list-style: none;
+    margin:0;
+    font-weight: 400;
+}
+
+
+
+
+/* main banner */
+.main-banner{
+    background-image: url("./img/slider-2.jpg");
+}
+.main-banner .box{
+    height : calc(100vh - 82px);
+    display: flex;
+    align-items: center;
+}
+.main-banner .box .content{
+    width: 60%;
+}
+.main-banner .box .content h1{
+    color: white;
+}
+.main-banner .box .content p{
+    color: white;
+    font-weight: 400;
+    margin:20px 0;
+}
+
+/* latest-new  */
+.latest-news .box{
+    display: flex;
+}
+.latest-news .box .latest{
+    height: 60px;
+    background-color: rgb(255, 179, 32);
+    width: 30%;
+    color:white;
+    display: flex;
+    justify-content: end;
+    padding-right: 40px;
+    align-items: center;
+}
+.latest-news .box .latest p{
+    margin : 0;
+    font-weight: 500;
+}
+
+.latest-news .box .news{
+    height: 60px;
+    background-color: #131313;
+    width: 70%;
+    color: white;
+    display: flex;
+    align-items: center;
+}

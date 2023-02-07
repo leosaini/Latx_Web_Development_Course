@@ -1,0 +1,112 @@
+CSS
+Cascading Style Sheet
+
+Css define styles of the web pages including design, layout and variatations  in displayy across the different device.
+extendtion .Css
+
+
+# 3 ways to include Css
+1. inline CSS
+    ex :  <p style="color:green; font-size:30px">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, veniam.</p>
+    
+2. internal CSS
+    <style>
+            p
+            {
+                color: blue;
+                font-size: 40px;
+            }
+    </style>
+
+3. External CSS
+
+
+
+Selector 
+1. Element Selector
+2. ID Selector
+3. Class Selector
+4. Attribute Selector 
+5. Pseudo Selector
+
+
+CSS Properties
+1. Color 
+   i. Color Name
+       ex : color: red;
+   ii. Hexadecimal Code
+       ex : color: #F94A29;
+   iii. RGB
+
+Units in CSS
+1. pixel - px ( Absolute Value )
+2. percent 
+3. em 
+bydefault 1em = 16px;
+4. rem
+5. vh
+6. vw
+7. calc()
+
+
+Typography
+1. font-family 
+2. google fonts
+3. font-weight
+4. text-align
+5. text-decoration
+6. color
+7. line-height
+8. text-tranform
+9. word-spacing
+10. letter-spacing
+
+
+/////  Box Model
+
+1. padding : gap between content and Box
+  /* padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px; */
+
+  /* padding: 20px; */
+
+  /* padding: top-bottom left-right */
+  /* padding: 30px 20px; */
+
+  /* padding : top right bottom left */
+    padding: 10px 20px 30px 40px;
+
+
+2. Margin
+
+3. Border
+
+
+//// Display Property 
+
+1. display: none;
+2. display: block;
+3. display: inline;
+4. visibility
+5. opacity
+
+
+//// Background Property
+
+
+
+//// Position
+1. relative
+2. absolute
+3. fixed
+4. sticky
+
+
+
+
+
+
+
+

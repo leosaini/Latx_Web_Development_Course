@@ -97,6 +97,111 @@ and they help search engin and user to underastand the main topic of the page.
    inline : take only necessary width
 
 
+////////////// Links
+
+Anchor Tag - <a>
+<a href="https://latx-technologies.in/">Latx Technologies</a>
+
+relative url : it only include the path of specific resource.
+
+absolute url : which contain domain name and path of the resource.
+
+
+connect specific section of the same page
+    <a href="#heading1">heading 1</a>
+    <a href="#subheading1">sub heading 1</a>
+    <a href="#subheading2">sub heading 2</a>
+
+
+
+        <h1 id="heading1">Heading 1</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error incidunt, ipsa enim quae ab nobis nostrum porro quia? Laudantium accusamus sapiente iure tempore aliquam quos minima consectetur odio deleniti velit dolores debitis consequuntur tenetur, quasi impedit eaque eveniet minus nisi ut! Libero enim perspiciatis doloremque provident, impedit magnam, sint itaque unde ratione corporis explicabo soluta modi, molestiae iure laudantium rem dolore ducimus? Suscipit assumenda aliquid ab nobis, amet eius repellendus incidunt qui necessitatibus culpa saepe eligendi architecto perspiciatis exercitationem enim officiis voluptatum rerum vero autem expedita corrupti quidem cum impedit nesciunt? Quaerat laudantium temporibus hic illo cupiditate eaque reprehenderit quam aut provident voluptatem! Modi enim, amet earum possimus quia culpa eum, unde atque veritatis neque, fugit ullam at porro dolor ducimus sunt reprehenderit maiores commodi temporibus. Aut magnam optio aliquam error quasi, deserunt ullam. Nesciunt fuga culpa nihil labore rem accusantium nostrum animi eos illum! Ab maiores ipsa temporibus tempore. Fuga impedit eveniet, fugit, at omnis nostrum debitis quas voluptate, minus deleniti dolore voluptates molestias quisquam eaque culpa! Odit aliquid adipisci reiciendis, molestias nobis cupiditate magnam temporibus repellendus, voluptate omnis maxime dolores dicta cumque fugiat accusamus error pariatur architecto. Quas sint voluptatibus perspiciatis accusamus commodi, ullam vitae, error quo repellat debitis qui rem dicta quasi illo dolorem. Laborum minus perferendis maxime sed iusto voluptatibus consequuntur, corrupti quis ipsa ratione iure, quia repellendus velit tenetur numquam eius expedita laboriosam? Error labore reprehenderit placeat? Ea vitae veniam architecto quod nulla numquam magnam soluta obcaecati quasi praesentium officiis velit, voluptate tenetur totam suscipit, ipsum eos, perspiciatis et. Facilis saepe possimus id fugit exercitationem cupiditate dignissimos dicta, dolorem in odio voluptate ipsam aperiam, minus nihil expedita quis beatae laboriosam odit consequatur corporis. Ea, ipsum saepe molestiae enim nostrum ab provident suscipit quasi, amet cumque, eligendi ad sit magnam. Temporibus quam doloribus laborum repudiandae ipsa ullam modi aut corrupti animi cum rem, voluptates dolore, dolores quasi nam nobis ex sed placeat sit harum laboriosam sapiente, praesentium cumque. Voluptas, quia debitis, a consectetur facilis hic aut delectus sequi voluptates odit quod provident non porro. Minima doloremque fuga maxime. Voluptatum voluptate iste, illum cum perferendis nihil fugiat necessitatibus accusamus labore suscipit doloremque alias nobis optio molestias officiis nulla dolore incidunt nemo vitae impedit soluta. Fugiat reiciendis earum dolorem quisquam sunt quas eligendi. Expedita, nam, dolorum sint eos, ex qui fuga consequuntur aliquid quasi delectus totam corporis tempora? Dolorum quas tempora ad obcaecati aliquam repellendus, sequi, optio doloremque autem voluptate earum laudantium eius. Odit porro perferendis laudantium voluptatem ea tenetur sed quam, adipisci nulla debitis. Facere perspiciatis, hic sequi placeat, magnam possimus blanditiis voluptatum doloremque dignissimos consequatur quaerat porro sit? Deleniti tempore hic tempora. Blanditiis sunt repudiandae error ex? Ab consequatur magni doloribus inventore nam, maxime cum tempora tenetur culpa enim sint mollitia porro exercitationem corrupti accusamus eum magnam! Nam officia minus, voluptatum, beatae laboriosam accusamus cupiditate sit recusandae et tempore possimus enim provident, aperiam dolorem! Eaque, blanditiis quis odio cum eum qui quaerat neque, maiores id quam architecto ut facilis sed quidem dolor commodi alias? Iure, dignissimos!</p>
+
+        <h2 id="subheading1">Sub Heading 1</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In quasi non accusantium quisquam illo laudantium suscipit maiores distinctio adipisci ea quidem, natus nemo officia porro enim neque nesciunt mollitia. Provident repudiandae ratione cum, id sequi alias quas. Cum fugiat ratione itaque maiores eum vitae libero et soluta nobis magni consequuntur ducimus in velit iure molestiae atque explicabo minus, tempora obcaecati cumque doloribus, quasi architecto. Nostrum eveniet amet dolore laboriosam quas, animi magni culpa? Sint ex quo ad corrupti laudantium mollitia nobis molestias nesciunt tenetur voluptatum, laboriosam quisquam non explicabo fugiat id neque iure dolore perspiciatis illum debitis aliquam in voluptates? Repellendus soluta numquam nam temporibus nihil autem necessitatibus magni minima aliquam error, cupiditate, quia labore vel dolorum eveniet odio inventore debitis. Laboriosam aliquid, sed voluptates reprehenderit harum culpa. Sequi, molestias. Ad magnam ipsum laudantium dolor possimus aperiam quas nisi natus laboriosam, eveniet enim veritatis id facere obcaecati. Voluptatem eligendi accusamus doloremque sunt voluptate dolorum, magni perferendis corporis assumenda consectetur architecto beatae asperiores reprehenderit nam quae repellat, maxime sit numquam eveniet culpa doloribus rerum quisquam? Voluptatum fugit repellat, laborum dignissimos ducimus aliquid a quas eum iusto odio? Aperiam dolorum cupiditate impedit qui tempora eaque excepturi tenetur pariatur obcaecati ducimus? Culpa perferendis atque neque voluptas at ratione beatae fuga, obcaecati similique optio totam quaerat quidem quo quasi debitis, eligendi enim maiores nobis reiciendis ut iste! Labore illo tempore ad nisi eius quas enim consequuntur odit, laborum sed ullam ea maxime laboriosam! Tempora dicta repellat nostrum. Sit, beatae illum, explicabo alias dolor ratione sapiente provident, aliquid temporibus similique iste sed. Soluta dolorem nesciunt quaerat veniam debitis. Aut, magni id porro harum tempora sequi rerum neque dicta excepturi quibusdam a, aliquid voluptate aperiam sint, ad similique repellendus cumque. Exercitationem, dolorum. Vel corrupti, eveniet molestiae, perferendis repellendus nostrum dolore, error non quibusdam possimus omnis. Eligendi exercitationem deserunt reiciendis distinctio blanditiis quod consequatur modi, excepturi quibusdam minus earum facere ab? Vero praesentium voluptatibus facere, consequuntur iusto, recusandae assumenda ea est, fugiat a illum exercitationem corrupti eius temporibus eligendi labore porro pariatur quibusdam facilis necessitatibus ratione alias. Quia ipsam, earum eaque ducimus ullam odio optio sed rem? Quos inventore eos esse autem saepe rerum possimus cupiditate, iusto vitae ab deserunt eius. Impedit, nemo, praesentium nesciunt ut laboriosam perferendis quaerat dolorem ab voluptatem odit cumque vel rerum excepturi minus doloremque. Laudantium, odit iste iure autem, cumque eaque saepe hic aliquid debitis, eius vitae. Atque a perspiciatis fugiat laboriosam.</p>
+
+        <h2 id="subheading2">Sub Heading 2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum culpa vel consequatur sed mollitia libero corrupti beatae fugiat praesentium, voluptatibus similique debitis distinctio quia exercitationem vero iusto enim nihil iure doloremque dolorem fuga. Tempore, harum eaque exercitationem fugiat impedit, quas saepe atque reprehenderit, possimus nam facilis veritatis nisi perferendis laudantium facere sit. Ea in distinctio quisquam culpa aut? Incidunt ex, nostrum nisi asperiores omnis error quas laboriosam vel quos iure, architecto perferendis reiciendis illum sequi qui eaque dignissimos ratione, magni consequuntur voluptas fugiat cupiditate. Totam exercitationem quidem repellat eligendi quae mollitia id sequi. Nulla in reiciendis cum modi voluptate cupiditate! Dignissimos repudiandae totam quod amet optio inventore numquam voluptates ea, quibusdam mollitia deserunt in recusandae praesentium aspernatur quas neque sequi. Dolorum excepturi repellendus dolores dignissimos maiores voluptates odit voluptate modi. Sequi amet inventore ullam? Nihil, repellat commodi. Esse odio aliquid totam quae earum ex, odit, vitae nisi dolores, facere fuga sit dolor. Asperiores odio, quibusdam quisquam enim, repellendus fugit, laborum porro perferendis reprehenderit iure aut illo velit laboriosam ipsa corrupti sunt a quaerat? Nobis, necessitatibus! Laboriosam id ad, nemo, voluptatum numquam quia quidem, quo hic ipsa pariatur magnam odio nobis? Eos accusamus est reiciendis quidem recusandae repudiandae aut quia repellat dolore labore, ex inventore eius voluptatem, eligendi quo voluptates! Quos exercitationem, neque quas nemo et accusantium in unde beatae consectetur sed eveniet rerum itaque sequi rem modi, aspernatur assumenda, eius nobis omnis porro qui suscipit perspiciatis? Molestiae debitis dolor quaerat nemo saepe aliquam? Magni, eos exercitationem. Tenetur cumque eveniet perspiciatis laudantium ad impedit vel accusamus, ullam assumenda error, recusandae nulla? Ducimus quae, doloremque soluta excepturi ea voluptatum dolores quo, qui fugit similique natus, et quaerat ipsam voluptas nisi? Id ullam exercitationem obcaecati nisi delectus magni quibusdam ipsa labore adipisci beatae dolor, repellat minima? Exercitationem nemo, aliquam modi atque quasi optio corrupti, dolorem doloribus ipsum aperiam ipsa hic porro expedita debitis? Repellendus nisi facilis quasi voluptate temporibus mollitia, corrupti in aliquid molestias. Eos vero velit neque ducimus, facilis pariatur cupiditate dolorem similique in illo. Enim doloremque nostrum deleniti! Porro, eum labore ipsam nam numquam minus asperiores nulla atque fugit tempora omnis optio inventore, repellat similique repudiandae explicabo sint eius officia quod officiis blanditiis? Sit reiciendis ipsa quam dolores quibusdam modi voluptatum praesentium optio impedit suscipit illum deserunt perspiciatis laudantium nisi dolorum, eos reprehenderit similique cum saepe velit qui magnam quis iusto. Repellendus asperiores sapiente in quae voluptas culpa doloribus perferendis sed!</p>
+    
+
+
+
+    
+    ex : <a href="tel:7357448832">+91-7357448832</a>
+
+    ex : <a href="./image/image 1.png" download>Download Image</a>
+
+
+
+
+
+Table 
+
+-> table create using <table>
+-> it contain row and col
+-> table row <tr>
+-> table data <td>
+    
+    ex : 
+    <table border="2">
+                <thead>
+                    <tr>
+                        <th >Name</th>
+                        <th>Course</th>
+                        <th>Age</th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                    <tr>
+                        <td>Ashish</td>
+                        <td>Web Development</td>
+                        <td>20</td>
+                    </tr>
+    
+                    <tr>
+                        <td>Rohit</td>
+                        <td>Web Designing</td>
+                        <td>22</td>
+                    </tr>
+    
+                    <tr>
+                        <td>Mohan</td>
+                        <td>React Development</td>
+                        <td>24</td>
+                    </tr>
+                </tbody>
+
+                
+           </table>
+
+
+
+Form : forms are use to collect a information from visitors.
+
+1. Adding text 
+   -> text input
+            <label for="name">Enter Your Name :</label>
+            <input id="name" type="text"><br/><br/>
+   -> password input
+            <label for="password">Enter Your Password :</label>
+            <input id="password" type="password">
+   -> textarea
+            <label for="textarea">Message : </label>
+            <textarea rows="5" cols="10"></textarea>
+
+2. making choice 
+   -> radio 
+   -> checkbox
+      : 
+   -> dropdown
+
+3. submit forms
+   submit button
+   file upload
+
+
+
 
 
 

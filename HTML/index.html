@@ -4,41 +4,59 @@
         <title>Document</title>
     </head>
     <body>       
-        <center>
-            <h1>Best Place To Visit In India</h1>
-        </center>
+    
+          <form>
+            <label for="name">Enter Your Name :</label>
+            <input id="name" type="text"><br/><br/>
 
-        <h2>1. Rajsamand Lake</h2>
-        <img src="./image/image 1.png" alt=""  width="60%">
-        <p>
-            Also popularly known as the Rajsamudra Lake, the Rajsamand Lake is a famous tourist attraction that is located 66 kilometers to the north of Udaipur, near the town of Rajsamand, in the Indian state of Rajasthan. The lake was constructed in the 17th century by Maharana Raj Singh and was built across the Gomati, Kelwa and Tali Rivers, with a total catchment area of around 196 square miles. The serene lake looks the most striking and stunning at the time of the sunset when the soft light of the setting sun casts an almost magic like glitter upon the pristine waters of the lake.
-        </p>
-        <p>
-            The lake is one of the five famous lakes in Mewar and lies nestled between the cities of Rajnagar and Kanroli. The major water source of the lake is the River Gomti. Towards the south of the lake, one can find a vast embankment that is composed entirely of white marble. This embankment is complete with marble terraces and beautiful stone steps that are in contact with the water of the lake. The five weighing arches or 'toranas' are where Maharaja Raj Singh and his descendants organized the annual event of Tuladan, wherein the kings weighed themselves in gold, and then distributed this gold amongst the Brahmins. This tradition of Tuladan was followed by the descendants of the Maharaja even after his death. <b>Read More...</b>
-        </p>
+            <label for="password">Enter Your Password :</label>
+            <input id="password" type="password"><br/><br/>
 
-        <p>
-            <b>Weather :</b> N.A.<br/>
-            <b>Timings :</b> Sunrise to Sunset<br/>
-            <b>Time Required :</b> 1-2 hrs<br/>
-            <b>Entry Fee :</b> No entry fee
-        </p>
+            <label for="textarea">Message : </label>
+            <textarea id="textarea" rows="5" cols="10"></textarea>
 
-        <h3>Top Hotels Near Rajsamand Lake</h3>
-        <ol>
-            <li>Justra Brij Bhoomi Nathdwara</li>
-            <li>The Sky Imperial- Hotel Gopal Darshan</li>
-        </ol>
 
-        <hr noshade/>
+            <p>Gender :</p>
+            <label>
+                <input type="radio" value="male" name="gender" > Male 
+            </label>
+            <br>
+            <label>
+              <input type="radio" value="female" name="gender" checked> Female
+          </label>
+           
 
-        <h2>2. Mount Abu Tourism</h2>
-        <img src="./image/image 3.png" alt="" width="60%">
-        <p>
-            The only hill station of Rajasthan, Mount Abu is located in the Aravali range. The most important attraction, however, are undoubtedly the Dilwara temples, which is one of the most stunning pieces of architecture in the country. Travellers can enjoy calm and relaxed boating in Nakki Lake, and a view of the sunset from the vista points. The restaurants and eateries around the lake are great places to eat local food and chill. The highest peak of the Aravali Range - Guru Shikhar also lies in Mt. Abu. Mount Abu Forest Sanctuary with an abundance of flora and fauna is also a highlight.
-            <br/><br/>
-            The exceptionally intricate architecture of the Dilwara temples are of course the main attraction here, and you can easily spend hours wondering how these temples were built over 2 centuries, almost 1000 years back. The temples were specifically made so that they are plain from the outside to avoid the attraction of plunderers, and have withstood the test of time extremely well.
-        </p>
+          <p>Courses :</p> 
+          <label ><input type="checkbox" value="cprogramming"> C Programming</label>
+          <label ><input type="checkbox" value="webdesigning"> Web Designing</label>
+          <label ><input type="checkbox" value="web development"> Web Development</label>
 
+
+          <select name="option">
+            <option disabled selected>Select option</option>
+            <option value="option1" >Option 1</option>
+            <option value="option2" >Option 2</option>
+            <option value="option3">Option 3</option>
+          </select>
+
+
+          <!-- submit button -->
+          <input type="submit" value="Submit Form">
+          <!-- or  -->
+          <button type="submit">Submit</button>
+          <button type="reset">Reset</button>
+
+
+          <!-- File Upload -->
+          <input type="file" >
+
+          <!-- date picker -->
+          <input type="date">
+
+
+          <input type="email" >
+
+            
+          </form>
     </body>
 </html>
